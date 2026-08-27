@@ -1,4 +1,5 @@
-{
+#codebase Students are able to register twice for an activity.
+Where could this bug be coming from?{
   "name": "Python 3",
   "image": "mcr.microsoft.com/devcontainers/python:3.13",
   "forwardPorts": [8000],
